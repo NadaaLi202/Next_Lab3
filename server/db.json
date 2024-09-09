@@ -1,0 +1,27 @@
+{
+  "news": [
+    { "id": 1, "title": "Hello World", "category": "hello" },
+    { "id": 2, "title": "next is Awesome", "category": "hello next" }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 22
+    }
+  ]
+}
